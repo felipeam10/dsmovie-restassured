@@ -5,7 +5,7 @@
 ## Índice
 
 - [Sobre](#sobre)
-- [Documentação completa desafio](#como-executar-o-projeto)
+- [Documentação completa desafio](#documentação-completa-desafio)
 - [Como executar o projeto](#como-executar-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Contribuir](#como-contribuir)
