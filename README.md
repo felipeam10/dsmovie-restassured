@@ -17,6 +17,8 @@ Este é um projeto de filmes e avaliações de filmes. A visualização dos dado
 ## Documentação completa desafio
 
 Acesse o link: [Documentação Desafio Cap06](https://drive.google.com/drive/folders/1wgmXq57ez6s_cMQmtNnMEt_UOnNRdQ7q)
+- Para que os testes rodem é necessário instalar o projeto base --> ````dsmovie-projeto-base.zip````.
+- Pois é este projeto que terá o servidor local e o banco de dados H2. ````http://localhost:8080````
 
 [Voltar ao Índice](#índice)
 
